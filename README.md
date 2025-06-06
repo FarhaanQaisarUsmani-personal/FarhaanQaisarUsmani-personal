@@ -18,3 +18,19 @@ I'm currently:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
+## 📂 Featured Projects
+- 🧠 **Evolution of AI (MNIST)**  
+  Used PyTorch and genetic algorithms to evolve deep learning architectures for digit classification.
+
+- 🛡️ **Blockchain Phishing Detection System**  
+  Built a Python-based tool to detect phishing activity on blockchain networks.
+
+- 🌐 **Code-Learning Platform (WIP)**  
+  Teaching coding through interactive lessons and quizzes, aimed at beginners.
+
+  ## 📫 Contact Me
+- LinkedIn: [www.linkedin.com/in/farhaan-qaisar-usmani-b6805228a](www.linkedin.com/in/farhaan-qaisar-usmani-b6805228a)
+- Email: [usmafarh@sheridancollege.ca](usmafarh@sheridancollege.ca)
+
+> “Always learning. Always building.”
