@@ -31,6 +31,6 @@ I'm currently:
 
   ## 📫 Contact Me
 - LinkedIn: [www.linkedin.com/in/farhaan-qaisar-usmani-b6805228a](www.linkedin.com/in/farhaan-qaisar-usmani-b6805228a)
-- Email: [usmafarh@sheridancollege.ca](usmafarh@sheridancollege.ca)
+- Email: [usmafarh@sheridancollege.ca](mailto:usmafarh@sheridancollege.ca)
 
 > “Always learning. Always building.”
